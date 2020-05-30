@@ -2,7 +2,7 @@
 
 ### TL;DR
 
-rehash of ![this guide](https://quarkus.io/guides/kafka)
+rehash of [this guide](https://quarkus.io/guides/kafka)
 
 Created 2 Eventsources on the data.html page
 
