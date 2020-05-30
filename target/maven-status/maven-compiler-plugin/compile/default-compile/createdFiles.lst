@@ -1,0 +1,3 @@
+com/redhat/app/kafka/DataResource.class
+com/redhat/app/kafka/DataConvertor.class
+com/redhat/app/kafka/DataGenerator.class
